@@ -1,6 +1,6 @@
 import { Patient } from "../model/PatientData.js";
 
-// Master
+// Master Entry
 export const CheckMasterEntry = async (request, response) => {
     try {
 

@@ -34,5 +34,5 @@ Connection(DB_USERNAME, DB_PASSWORD)
 
 
 app.listen(PORT, () => {
-    console.log(`Listening to the PORT ${PORT}`)
+    console.log(`Connected to the PORT ${PORT}`)
 })
